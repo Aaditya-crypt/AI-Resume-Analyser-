@@ -1,0 +1,17 @@
+# Data & uploads
+career-recommender/backend/data/
+career-recommender/data/
+
+# ML artifacts
+*.pkl
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Node
+node_modules/
+dist/
